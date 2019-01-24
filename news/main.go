@@ -6,7 +6,7 @@ import (
 	_ "newsPublish/models"
 
 )
-
+//哈哈哈哈哈哈
 func main() {
 	beego.AddFuncMap("prePage",ShowPrePage)
 	beego.AddFuncMap("nextPage",ShowNextPage)
